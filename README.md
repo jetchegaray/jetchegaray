@@ -6,9 +6,6 @@
     <a href="https://www.linkedin.com/in/javieretchegaray/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="[your-twitter-URL](https://twitter.com/Maiden666Elver)">
-      <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   <h1>
     Hi there!
@@ -48,13 +45,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg"  title="nestjs" alt="nestjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+</div>
+ 
+ <div align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetchegaray&layout=donut)](https://github.com/jetchegaray/github-readme-stats)
  </div>
  
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetchegaray&layout=donut)](https://github.com/jetchegaray/github-readme-stats)
- 
-
-### :writing_hand: Portfolio & blog : 
+---
+ ### :writing_hand: Portfolio & blog : 
 
  - [Portfolio](https://etchegarayjavier.myportfolio.com/)
 
