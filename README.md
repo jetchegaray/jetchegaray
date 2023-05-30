@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m currently working as Full-Stack engineer and Blockchain
 - 🌱 I’m currently learning Blockchain
 - 📖 I'm currently styding for AWS certification
-- 💞 In my free time I try to help ONGs and volunteer programs with their websites. 
+- 💞 In my free time I try to help NGOs and volunteer programs with their websites in vulnerables zones of argentina and south America.
 - 📫 :How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Javier-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javieretchegaray)
 
 ---
