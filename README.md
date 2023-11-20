@@ -6,6 +6,9 @@
     <a href="https://www.linkedin.com/in/javieretchegaray/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://etchegarayjavier.myportfolio.com/">
+      <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=codenewbie&logoColor=white" alt="Portfolio Badge"/>
+    </a>
   </div>
   <h1>
     Hi there!
@@ -24,8 +27,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m currently working as Full-Stack engineer and Blockchain
 - 🌱 I’m currently learning Blockchain
-- 📖 I'm currently styding for AWS certification
-- 💞 In my free time I try to help NGOs and volunteer programs with their websites in vulnerables zones of argentina and south America.
+- 📖 I'm currently studying for AWS certification
+- 💞 In my free time I try to help NGOs and volunteer programs with their websites in vulnerable zones of Argentina and South America.
 - 📫 :How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Javier-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javieretchegaray)
 
 ---
